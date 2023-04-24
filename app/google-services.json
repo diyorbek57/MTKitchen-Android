@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260543228515",
+    "project_id": "mtkitchen-c062d",
+    "storage_bucket": "mtkitchen-c062d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260543228515:android:8bff685905cf9bfd346656",
+        "android_client_info": {
+          "package_name": "uz.maxtac.mtkitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260543228515-s8fldoqm98j5p29jafq8k10smmcib0u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.maxtac.mtkitchen",
+            "certificate_hash": "8f0fed0116e65251ecbe69403e1ba60b7de3befb"
+          }
+        },
+        {
+          "client_id": "260543228515-mfhfkgb0l5id34v8hjp4tsh5uc1bf958.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtAl2MOqCSOqrAnsqhywaIlBJe6sspPeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260543228515-mfhfkgb0l5id34v8hjp4tsh5uc1bf958.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

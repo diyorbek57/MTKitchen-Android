@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/allergiesFragment">
+
+    <fragment
+        android:id="@+id/allergiesFragment"
+        android:name="uz.maxtac.mtkitchen.ui.fragment.AllergiesFragment"
+        android:label="fragment_allergies"
+        tools:layout="@layout/fragment_allergies" />
+    <fragment
+        android:id="@+id/dietaryPreferencesFragment"
+        android:name="uz.maxtac.mtkitchen.ui.fragment.DietaryPreferencesFragment"
+        android:label="fragment_dietary_preferences"
+        tools:layout="@layout/fragment_dietary_preferences" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="uz.maxtac.mtkitchen.ui.fragment.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/notificationFragment"
+        android:name="uz.maxtac.mtkitchen.ui.fragment.NotificationFragment"
+        android:label="fragment_notification"
+        tools:layout="@layout/fragment_notification" />
+    <fragment
+        android:id="@+id/productsFragment"
+        android:name="uz.maxtac.mtkitchen.ui.fragment.ProductsFragment"
+        android:label="fragment_products"
+        tools:layout="@layout/fragment_products" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="uz.maxtac.mtkitchen.ui.fragment.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" />
+</navigation>
