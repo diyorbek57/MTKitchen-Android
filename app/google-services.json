@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "260543228515",
-    "project_id": "mtkitchen-c062d",
-    "storage_bucket": "mtkitchen-c062d.appspot.com"
+    "project_number": "713107430203",
+    "project_id": "mtkitchen-43de6",
+    "storage_bucket": "mtkitchen-43de6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:260543228515:android:8bff685905cf9bfd346656",
+        "mobilesdk_app_id": "1:713107430203:android:e87a443c2f18664f42f51e",
         "android_client_info": {
           "package_name": "uz.maxtac.mtkitchen"
         }
       },
       "oauth_client": [
         {
-          "client_id": "260543228515-s8fldoqm98j5p29jafq8k10smmcib0u9.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "uz.maxtac.mtkitchen",
-            "certificate_hash": "8f0fed0116e65251ecbe69403e1ba60b7de3befb"
-          }
-        },
-        {
-          "client_id": "260543228515-mfhfkgb0l5id34v8hjp4tsh5uc1bf958.apps.googleusercontent.com",
+          "client_id": "713107430203-ccc5u906t7fssnscmrbgmqdv9k3affcj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDtAl2MOqCSOqrAnsqhywaIlBJe6sspPeI"
+          "current_key": "AIzaSyDeBA5mrTGxH3Q4zm3F65sqzWm2qcygcl0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "260543228515-mfhfkgb0l5id34v8hjp4tsh5uc1bf958.apps.googleusercontent.com",
+              "client_id": "713107430203-ccc5u906t7fssnscmrbgmqdv9k3affcj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
